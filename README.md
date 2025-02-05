@@ -7,6 +7,8 @@
 
 - 👯 I’m happy to get some hints for [Philosophers Project](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank3/philo)
 
+- 🌱 My last project [Pipex](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank2/Pipex)
+
 - 📫 How to reach me **joaopcrema@gmail.com**
 
 - ⚡ Fun fact **I think i am funny!**
