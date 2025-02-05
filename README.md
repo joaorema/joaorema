@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **joaopcrema@gmail.com**
 
-- ⚡ Fun fact **I think i am funny!**
+- ⚡ Fun [fact](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
