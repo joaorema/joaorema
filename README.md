@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaorema&label=Profile%20views&color=0e75b6&style=flat" alt="joaorema" /> </p>
 
-- 🔭 I’m currently learning C programming [Philosophers](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank3/philo)
+- 🔭 I’m currently learning C programming [42 Porto](https://www.42porto.com/pt/)
 
 - 👯 I’m happy to get some hints for **Minishell Project**
 
