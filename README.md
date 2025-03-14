@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently learning C programming [42 Porto](https://www.42porto.com/pt/)
 
-- 👯 I’m happy to get some hints for MINISHELL PROJECT
+- 👯 I’m happy to get some hints for Minishell Project!
 
-- 🌱 My last project [Pipex](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank2/Pipex)
+- 🌱 My last project [Philo](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank3/philo)
 
 - 📫 How to reach me **joaopcrema@gmail.com**
 
