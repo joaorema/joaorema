@@ -27,9 +27,9 @@
 
 ## Projects
 
-| Project | Status   | Language 
-| ---- | :--: | :--: | :--: |
-| ... | ... | ... | ... | ... |
+| Project | Status   | Language |
+| ---- | :--: | :--:
+| ... | ... | ... | ... |
 | [CPP Module 00](https://github.com/joaorema/Cplus/tree/main/Module0) | In Progress... | C++ 
 | [cub3d](https://github.com/joaorema/cub3d) | Completed | C        
 | [minishell](https://github.com/joaorema/Minishell) | Completed | C       
