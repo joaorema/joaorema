@@ -19,10 +19,11 @@
   </a>
 </div>
 
-
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaorema&show_icons=true&locale=en" alt="joaorema" /></p>
 
+</p>
 
 ## Projects
 
