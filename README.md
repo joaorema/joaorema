@@ -27,10 +27,10 @@
 
 ## Projects
 
-| Project | Status   | Language | Score |
+| Project | Status   | Language 
 | ---- | :--: | :--: | :--: |
 | ... | ... | ... | ... | ... |
-| [CPP Module 00](https://github.com/joaorema/Cplus/tree/main/Module0) | In Progress... | C++       |  :soon: / :question: |
+| [CPP Module 00](https://github.com/joaorema/Cplus/tree/main/Module0) | In Progress... | C++ 
 | [cub3d](https://github.com/joaorema/cub3d) | Completed | C        
 | [minishell](https://github.com/joaorema/Minishell) | Completed | C       
 | [philosophers](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank3/philo) | Completed | C      
