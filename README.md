@@ -38,6 +38,6 @@
 | [so_long](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank2/So_Long) | Completed | C 
 | [push_swap](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank2/Push_swap) | Completed | C 
 | [get_next_line](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank1/Get_next_line) | Completed | C 
-| [ft_printf](hhttps://github.com/joaorema/Projects-42/tree/main/Projects/Rank1/ft_printf) | Completed | C  
+| [ft_printf](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank1/ft_printf) | Completed | C  
 | [libft](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank0) | Completed | C  
 | [Piscine](https://github.com/joaorema/Pescine-42) | Completed | C & Shell       | :swimmer::white_check_mark: :swimmer: :white_check_mark: |
