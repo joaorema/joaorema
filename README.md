@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaorema&label=Profile%20views&color=0e75b6&style=flat" alt="joaorema" /> </p>
 
-- 🔭 I’m currently developing software in C at [42 Porto](https://www.42porto.com/pt/)
+- 🔭 I’m currently developing software in C and C++ at [42 Porto](https://www.42porto.com/pt/)
 
 - 🌱 My last project [Cpp04]([https://github.com/joaorema/Projects-42/tree/main/Projects/Rank3/philo](https://github.com/joaorema/Cplus/tree/main/Module4))
 
