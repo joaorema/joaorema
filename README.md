@@ -19,9 +19,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,vscode,vim,git,github,notion" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,vscode,vim,git,github,notion, python, sql" />
   </a>
 </div>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaorema&show_icons=true&locale=en" alt="joaorema" /></p>
 
