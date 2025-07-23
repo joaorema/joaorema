@@ -13,10 +13,10 @@
 
 ## Skills
 
-<p>Languages: C , C++, Bash<p>
-<p>Operating Systems: Linux<p>
-<p>Databases: Sql<p>
-<p>Others : Git, Notion<p>
+<p> - Languages: C , C++, Bash<p>
+<p> - Operating Systems: Linux<p>
+<p> - Databases: Sql<p>
+<p> - Others : Git, Notio, Microsoft officen<p>
 
 </p>
 
