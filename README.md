@@ -13,11 +13,10 @@
 
 ## Skills
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,vscode,vim,git,github,notion,python,sql" />
-  </a>
-</div>
+Languages: C , C++, Bash
+Operating Systems: Linux
+Databases: Sql
+Others : Git, Notion
 
 </p>
 
