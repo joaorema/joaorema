@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently developing software in C and C++ at [42 Porto](https://www.42porto.com/pt/)
 
-- 🌱 My last project [C++ Module 04]([https://github.com/joaorema/Projects-42/tree/main/Projects/Rank3/philo](https://github.com/joaorema/Cplus/tree/main/Module4)
+- 🌱 My last project [C++ Module 04](https://github.com/joaorema/Cplus/tree/main/Module4)
 
 - 📫 How to reach me **joaopcrema@gmail.com**
 
