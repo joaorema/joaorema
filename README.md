@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Rema</h1>
-<h3 align="center">I am learning to code!</h3>
+<h3 align="center">I am a software developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaorema&label=Profile%20views&color=0e75b6&style=flat" alt="joaorema" /> </p>
 
@@ -13,7 +13,7 @@
 
 ## Skills
 
-<p> - Languages: C , C++, Bash<p>
+<p> - Languages: C , C++, Bash, Docker<p> 
 <p> - Operating Systems: Linux<p>
 <p> - Databases: Sql<p>
 <p> - Others : Git, Notion, Microsoft office<p>
@@ -29,7 +29,8 @@
 | Project | Status   | Language |
 | ---- | :--: | :--:
 | ... | ... | ... | ... |
-| [CPP Module 00](https://github.com/joaorema/Cplus/tree/main/Module0) | In Progress... | C++ 
+| [Inception](https://github.com/joaorema/Inception) | In Progress... | C++ 
+| [CPP Module 04](https://github.com/joaorema/Cplus/tree/main/Module0) | Completed | C++ 
 | [cub3d](https://github.com/joaorema/cub3d) | Completed | C        
 | [minishell](https://github.com/joaorema/Minishell) | Completed | C       
 | [philosophers](https://github.com/joaorema/Projects-42/tree/main/Projects/Rank3/philo) | Completed | C      
