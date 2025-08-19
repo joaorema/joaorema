@@ -29,7 +29,7 @@
 | Project | Status   | Language |
 | ---- | :--: | :--:
 | ... | ... | ... | ... |
-| [Cpp Module 05](https://github.com/joaorema/Cplus/tree/main/Module5) | In progress .. | Docker
+| [Cpp Module 05](https://github.com/joaorema/Cplus/tree/main/Module5) | In progress .. | C++
 | [Inception](https://github.com/joaorema/Inception) | Completed | Docker 
 | [CPP Module 00-04](https://github.com/joaorema/Cplus/tree/main/Module0) | Completed | C++ 
 | [cub3d](https://github.com/joaorema/cub3d) | Completed | C        
